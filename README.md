@@ -11,7 +11,7 @@ Este conjunto de datos contiene información a nivel diario sobre el número de 
 ## Herramientas utilizadas
 ![Tableu](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
-![Github](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+![Github](https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white)
 
 ## Conclusiones 
 
