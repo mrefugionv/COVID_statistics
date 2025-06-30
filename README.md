@@ -13,5 +13,10 @@ Este conjunto de datos contiene información a nivel diario sobre el número de 
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Github](https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white)
 
-## Conclusiones 
+En el archivo .twb encuentras el archivo de Tableu 
 
+## Conclusiones 
+A 29 de mayo del 2021: 
+Los países con mayor cantidad de casos confirmados fueron US, India y Brasil.
+Los países con mayor porcentaje de defunciones fueron Yemen, México y Sudán.
+Se observan países sin registros de recuperación como US, pudiendose deber al tiempo de recuperación de la enfemedad. 
