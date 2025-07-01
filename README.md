@@ -1,6 +1,6 @@
 # COVID_statistics
 
-## Introducción 
+## Descripción 
 Se genera un dashboard para facilitar la visualización de los países con mayor cantidad de casos, en los días registrados, 
 así como observar el porcentage de casos de recuperación y aquellos que fallecieron.
 
@@ -14,6 +14,8 @@ Este conjunto de datos contiene información a nivel diario sobre el número de 
 ![Github](https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white)
 
 En el archivo .twb encuentras el archivo de Tableu 
+también lo encuentras en:
+https://public.tableau.com/views/COVID_17513180217090/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Conclusiones 
 A 29 de mayo del 2021: 
