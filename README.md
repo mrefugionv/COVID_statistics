@@ -1,4 +1,5 @@
 # COVID_statistics
+Dashboard de mapas en Tableu con los casos de afectados, muertes y recuperación por COVIS con filtro por fechas del 2019. 
 
 ## Descripción 
 Se genera un dashboard para facilitar la visualización de los países con mayor cantidad de casos, en los días registrados, 
